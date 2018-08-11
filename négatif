@@ -1,0 +1,5 @@
+//Inverser les couleurs d'une image (négatif)
+img {
+   -webkit-filter: invert(1);
+   filter: invert(1);
+}
